@@ -10,4 +10,8 @@ hello from local for branch1
 =======
 changing from local tehee :3
 This is from new branch
->>>>>>> d367c4069995fa156982cd78b1cdf7ad5eb51a46
+
+=======
+
+testing git pull
+
