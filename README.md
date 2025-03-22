@@ -22,4 +22,4 @@ changing from local tehee :3 ||
 This is from new branch || 
 testing git pull || 
 severe brain damage TnT
->>>>>>> 9302bb0b06d16acb5485865081d6941c5a1c734c
+
